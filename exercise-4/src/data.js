@@ -20,7 +20,7 @@ import amazonRiverImg from "./assets/amazon-river.jpg";
 export const AVAILABLE_PLACES = [
   {
     id: "p1",
-    title: "Forest Waterfall",
+    title: "victoria-falls.jpg",
     image: {
       src: "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/07/hinh-dep-5.jpg",
       alt: "A tranquil forest with a cascading waterfall amidst greenery.",
@@ -70,7 +70,7 @@ export const AVAILABLE_PLACES = [
     id: "p7",
     title: "Northern Lights",
     image: {
-      src: northernLightsImg,
+      src: northernLightsImg.jpg,
       alt: "Dazzling display of the Northern Lights in a starry sky.",
     },
   },
@@ -94,7 +94,7 @@ export const AVAILABLE_PLACES = [
     id: "p10",
     title: "Parisian Streets",
     image: {
-      src: parisianStreetsImg,
+      src: victoria-falls.jpg,
       alt: "Charming streets of Paris with historic buildings and cafes.",
     },
   },
