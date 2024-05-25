@@ -11,6 +11,9 @@ function App() {
       <main>
         <section className="places-category">
           <ul className="places">
+            {AVAILABLE_PLACES.map((place, index) => (
+            <Place key={index} place={place} />
+      ))}
             {/* For each place from AVAILABLE_PLACES, create a Place component */}
           </ul>
         </section>

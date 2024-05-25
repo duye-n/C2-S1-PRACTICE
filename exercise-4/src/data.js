@@ -22,7 +22,7 @@ export const AVAILABLE_PLACES = [
     id: "p1",
     title: "Forest Waterfall",
     image: {
-      src: forestWaterfallImg,
+      src: "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/07/hinh-dep-5.jpg",
       alt: "A tranquil forest with a cascading waterfall amidst greenery.",
     },
   },
@@ -30,7 +30,7 @@ export const AVAILABLE_PLACES = [
     id: "p2",
     title: "Sahara Desert Dunes",
     image: {
-      src: desertDunes,
+      src: "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/07/hinh-dep-5.jpg",
       alt: "Golden dunes stretching to the horizon in the Sahara Desert.",
     },
   },
@@ -38,7 +38,7 @@ export const AVAILABLE_PLACES = [
     id: "p3",
     title: "Himalayan Peaks",
     image: {
-      src: majesticMountains,
+      src: "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/07/hinh-dep-5.jpg",
       alt: "The sun setting behind snow-capped peaks of majestic mountains.",
     },
   },
@@ -46,7 +46,7 @@ export const AVAILABLE_PLACES = [
     id: "p4",
     title: "Caribbean Beach",
     image: {
-      src: caribbeanBeachImg,
+      src: "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/07/hinh-dep-5.jpghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9F_rYX3tMKY7gb0PnVzpPJoeB_jyvBZ3UThgcY6UwhRXs8wt15JQf8WOXzb5FURS4Gc&usqp=CAU",
       alt: "Pristine white sand and turquoise waters of a Caribbean beach.",
     },
   },
